@@ -1,0 +1,16 @@
+com\example\shiftmanagement\exception\EmployeeNotFoundException.class
+com\example\shiftmanagement\controller\AuthController.class
+com\example\shiftmanagement\model\AuthenticationRequest.class
+com\example\shiftmanagement\config\SecurityConfig.class
+com\example\shiftmanagement\service\CustomUserDetailsService.class
+com\example\shiftmanagement\util\JwtUtil.class
+com\example\shiftmanagement\model\EmployeeShift.class
+com\example\shiftmanagement\repository\EmployeeShiftRepository.class
+com\example\shiftmanagement\service\UserDetailsServiceWrapper.class
+com\example\shiftmanagement\filter\JwtRequestFilter.class
+com\example\shiftmanagement\model\AuthenticationResponse.class
+com\example\shiftmanagement\controller\EmployeeShiftController.class
+com\example\shiftmanagement\exception\GlobalExceptionHandler.class
+com\example\shiftmanagement\service\EmployeeShiftService.class
+com\example\shiftmanagement\service\InMemoryUserDetailsServiceImpl.class
+com\example\shiftmanagement\ShiftmanagementApplication.class
